@@ -1,0 +1,8 @@
+Portfolio: testTwo
+Date: 2020-05-05
+GOOG,100.0
+
+Date: 2024-05-05
+GOOG,100.0
+AAPL,10.0
+

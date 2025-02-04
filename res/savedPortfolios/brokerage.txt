@@ -1,0 +1,8 @@
+Portfolio: brokerage
+Date: 2024-05-05
+AAPL,5.0
+
+Date: 2024-06-05
+GOOG,10.0
+AAPL,5.0
+
