@@ -5,6 +5,8 @@ A stock program that retrieves data from the Alpha Vantage API. Allows for retri
 
 Unfortunately, the original repository was deleted so the commit history was lost as well.
 
+For setup, please read SETUP-README.txt in the res folder. 
+
 ## core features
 
 ### portfolio management
@@ -22,7 +24,7 @@ Unfortunately, the original repository was deleted so the commit history was los
 - Portfolio composition and distribution
 
 ### interface options
-- `-text`: CLI mode
+- CLI mode
 - GUI with Java Swing
 
 
